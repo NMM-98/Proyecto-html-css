@@ -140,7 +140,7 @@ h1,h2,h3 {
 }
 
 .paisaje {
-    background-image: url(../img/paisajenaranja.jpg);
+    background-image: url(paisajenaranja.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
